@@ -51,6 +51,16 @@ p  {
 	margin: 0 0 20px 0;
 }
 
+
+.Sec1 a {
+	color: #1783bb;
+	text-decoration: none;
+}
+
+.Sec1 a:hover {
+	text-decoration: underline;
+}
+
 .footertext {
 	font-size: 0.8em;
 }
