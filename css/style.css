@@ -46,5 +46,8 @@ p  {
 	margin: 0 0 20px 0;
 }
 
+.footertext {
+	font-size: 0.8em;
+}
 
 /* Write all remaining styles here */
